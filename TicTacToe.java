@@ -1,4 +1,4 @@
-package GITHUB.TicTacToe;
+package GITHUB.TicTacToe;//remove this line before running the code
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
