@@ -103,6 +103,7 @@ public class TicTacToe{
         char [] player  = new char[2];
         player[0]=sc.next().charAt(0);
         if(player[0]=='X'||player[0]=='x'){
+            player[0]='X';
             player[1]='O';
         }
         else{
